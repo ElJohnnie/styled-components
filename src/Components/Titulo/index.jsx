@@ -1,6 +1,6 @@
-import Styled from "styled-components";
+import styled from "styled-components";
 
-const Titulo = Styled.h1`
+const Titulo = styled.h1`
   color: grey;
   padding: 25px 0;
 `;
